@@ -1,10 +1,11 @@
 # Shopify-Sales-Analysis
 ## Background & Overview
-In today’s fast-paced e-commerce landscape, understanding the customer journey from first purchase to repeat loyalty is critical.
-This project focuses on analyzing detailed Shopify sales data to uncover actionable business insights that improve customer retention, optimize product performance, and drive revenue growth.
+In today’s fast-paced e-commerce environment, data-driven decision-making is crucial for optimizing performance and driving growth.
 
-### Objective:
-The goal is to move beyond surface-level metrics and deeply explore the funnel dynamics, highlighting patterns in purchase behavior, regional trends, and product category performance.
+This project focuses on just one week of Shopify sales data, from which core metrics were created and dynamic dashboards were developed purely for analytical purposes.
+
+### Objective
+By analyzing this one-week dataset, we aim to highlight quick trends in customer behavior, product performance, and funnel conversion, enabling business owners to make immediate, informed decisions. The dashboards transform raw transactional data into clear, visually compelling insights that are easy to interpret and act on.
 
 ## Data Structure Overview
 The dataset used is a comprehensive transactional export from Shopify, capturing multiple dimensions of the sales funnel. Below is a breakdown of the fields included:
@@ -65,15 +66,14 @@ Shopify Payments emerges as the most popular gateway, but analysis suggests alte
 
 High CLV segments show strong repeat purchase behavior, emphasizing the importance of loyalty campaigns and personalized retargeting.
 
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Top%205%20Pizza%20in%20%25.png">
- <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/pizza-sales-analysis/blob/main/Top%205%20Pizza%20in%20%25.png">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/Shopify-Sales-Analysis/blob/main/Net%20sales.png">
+ <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Naveena-1213/Shopify-Sales-Analysis/blob/main/Detailed%20Report.png">
 
 ## Recommendations
  * Focus on high-performing geographic regions with targeted offers and tailored marketing campaigns.
- * Expand successful product lines (e.g., Climbing Shoes) and introduce upsell opportunities.
+ * Expand successful product lines (e.g.,Running Shoes) and introduce upsell opportunities.
  * Enhance loyalty programs to further boost repeat purchase rates and increase lifetime value.
  * Optimize checkout flows and consider introducing additional payment gateways to reduce abandonment.
- * Use seasonal spikes to guide promotional calendar and stock planning for upcoming years.
 
 ## Tools Used
 
