@@ -71,8 +71,11 @@ High CLV segments show strong repeat purchase behavior, emphasizing the importan
 
 ## Recommendations
  * Focus on high-performing geographic regions with targeted offers and tailored marketing campaigns.
+  
  * Expand successful product lines (e.g.,Running Shoes) and introduce upsell opportunities.
+   
  * Enhance loyalty programs to further boost repeat purchase rates and increase lifetime value.
+   
  * Optimize checkout flows and consider introducing additional payment gateways to reduce abandonment.
 
 ## Tools Used
